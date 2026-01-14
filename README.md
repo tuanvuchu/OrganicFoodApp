@@ -15,8 +15,8 @@ OrganicFoodApp là một ứng dụng Android được thiết kế để cung c
 - 🛒 **Danh mục sản phẩm:** Duyệt qua danh mục đa dạng các mặt hàng thực phẩm hữu cơ.
 - 🔍 **Tìm kiếm & Bộ lọc:** Dễ dàng tìm thấy các sản phẩm hoặc danh mục cụ thể.
 - ➕ **Giỏ hàng:** Thêm các sản phẩm mong muốn vào giỏ hàng được lưu trữ bền vững.
-- 👤 **Xác thực người dùng:** Đăng nhập và đăng ký người dùng an toàn (được suy luận).
-- 📦 **Đặt hàng & Theo dõi:** Quản lý đơn hàng từ khi tạo mới đến khi giao hàng (được suy luận).
+- 👤 **Xác thực người dùng:** Đăng nhập và đăng ký người dùng an toàn.
+- 📦 **Đặt hàng & Theo dõi:** Quản lý đơn hàng từ khi tạo mới đến khi giao hàng.
 
 ## 🚀 Bắt đầu nhanh
 
